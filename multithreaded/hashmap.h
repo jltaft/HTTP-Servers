@@ -1,7 +1,5 @@
 //
 //Implementation of hashmap.c
-//CSE 130 
-//Winter 2025
 //jltaft
 //
 
